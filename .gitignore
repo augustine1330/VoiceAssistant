@@ -1,0 +1,16 @@
+voice-env/
+__pycache__/
+*.pyc
+.env
+
+# Virtual environment
+voice-env/
+
+# AI models
+models/
+
+# Piper
+piper/
+
+# VS Code
+.vscode/
