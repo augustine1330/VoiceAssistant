@@ -171,3 +171,38 @@ Say "Hey Amaghana" then try:
 "Make me fly"
 "Search for the best Python frameworks"
 "Open chrome"
+
+
+# Voice Assistant
+
+## Clone
+
+```bash
+git clone https://github.com/your-username/VoiceAssistant.git
+cd VoiceAssistant
+```
+
+## Create a virtual environment
+
+```bash
+python -m venv voice-env
+voice-env\Scripts\activate
+```
+
+## Install dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+## Download AI models
+
+```bash
+python setup_models.py
+```
+
+## Run
+
+```bash
+python main.py
+```
